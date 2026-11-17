@@ -1,4 +1,4 @@
-# lopebase-com
+# LopeBase
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,118 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-lopebase-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://lopebase.com/
+LopeBase provides an operations console that consolidates monitoring, analytics, SEO, revenue tracking, and AI-driven insights for SaaS products. It offers dashboards for uptime, incidents, traffic, SEO visibility, AI content autopilot, and revenue metrics, enabling teams to streamline product management and improve growth. The platform integrates with tools like Google Search Console, Stripe, and various CMSs, delivering a unified view of product health and performance.
+
+**Areas:** Company · SaaS · Operations · Analytics · SEO
+
+## LopeBase on APIs.io
+
+Everything profiled for LopeBase is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lopebase-com/](https://apis.io/providers/lopebase-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [LopeBase API](https://apis.io/apis/lopebase-com/lopebase-com-api/) — LopeBase API as documented publicly: 3 operations. Contract generated from the documentation by API Evangelist (2026-11-17); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [GetApiLopebaseHealthResponse](https://apis.io/schemas/lopebase-com/lopebase-com-get-api-lopebase-health-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Lopebase Com Context](https://apis.io/jsonld/lopebase-com/lopebase-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [LopeBase API Rules](https://apis.io/rules/lopebase-com/lopebase-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [LopeBase Domain Security](https://apis.io/security/lopebase-com/lopebase-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [LopeBase Plans Pricing](https://apis.io/plans/lopebase-com/lopebase-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://lopebase.com/)
+- [Documentation](https://lopebase.com/docs)
+- [Getting started](https://lopebase.com/docs/getting-started)
+- [Pricing](https://lopebase.com/pricing)
+- [Sign up](https://app.lopebase.com/signup)
+- [Changelog](https://lopebase.com/changelog)
+- [Blog](https://lopebase.com/blog)
+- [Terms of service](https://app.lopebase.com/legal/terms)
+- [Privacy policy](https://app.lopebase.com/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 50.9** — developing · rubric 0.27.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 42.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 31.0 |
+| Access clarity | 73.2 |
+
+**Agent readiness 36.1** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lopebase-com/](https://apis.io/providers/lopebase-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for LopeBase: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lopebase-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
